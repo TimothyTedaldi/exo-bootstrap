@@ -1,2 +1,10 @@
+/* line 1, ../Documents/GitHub/exo-bootstrap/Assets/scss/style.scss */
+.this-is-a-text-zone {
+  border: solid 4px black;
+  background-color: #ca39f7;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+}
 
 /*# sourceMappingURL=style.css.map */
