@@ -5,8 +5,8 @@
 		"../scss/style.scss"
 	],
 	"sourcesContent": [
-		".this-is-a-text-zone{\r\n    border: solid 4px black;\r\n    background-color: #ca39f7;\r\n    border-radius: 10px;\r\n    color: white;\r\n    text-align: center;\r\n}\r\n\r\n"
+		".this-is-a-text-zone{\r\n    border: solid 4px black;\r\n    background-color: #ca39f7;\r\n    border-radius: 10px;\r\n    color: white;\r\n    text-align: center;\r\n}\r\n\r\n.block-text-exo5{\r\n    border: solid 4px rgb(97, 97, 97);\r\n    background-color: #66b3fa;\r\n    color: white;\r\n    text-align: center;\r\n    padding-top: 2%;\r\n    padding-bottom: 2%;\r\n    \r\n}\r\n.container-img{\r\n    width: 500px;\r\n    height: 100px;\r\n    text-align: center;\r\n    margin-left: auto;\r\n    margin-right: auto;\r\n    img {\r\n        width: 100%;\r\n        height: auto;\r\n    }\r\n}\r\n\r\nbody{\r\n    background-color: rgb(255, 231, 133);\r\n}"
 	],
 	"names": [],
-	"mappings": ";AAAA,AAAA,oBAAoB,CAAA;EAChB,MAAM,EAAE,eAAe;EACvB,gBAAgB,EAAE,OAAO;EACzB,aAAa,EAAE,IAAI;EACnB,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,MAAM;CACrB"
+	"mappings": ";AAAA,AAAA,oBAAoB,CAAA;EAChB,MAAM,EAAE,eAAe;EACvB,gBAAgB,EAAE,OAAO;EACzB,aAAa,EAAE,IAAI;EACnB,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,MAAM;CACrB;;;AAED,AAAA,gBAAgB,CAAA;EACZ,MAAM,EAAE,KAAK,CAAC,GAAG,CAAC,OAAe;EACjC,gBAAgB,EAAE,OAAO;EACzB,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,EAAE;EACf,cAAc,EAAE,EAAE;CAErB;;;AACD,AAAA,cAAc,CAAA;EACV,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;CAKrB;;;AAVD,AAMI,cANU,CAMV,GAAG,CAAC;EACA,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACf;;;AAGL,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,OAAkB;CACvC"
 }
